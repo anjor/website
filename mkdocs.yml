@@ -37,5 +37,8 @@ extra:
       link: https://github.com/anjor
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/anjor-kanekar/
+  analytics:
+    provider: google
+    id: G-HHKQ3RWV3N
 
 copyright: Copyright &copy; 2023 Anjor Kanekar

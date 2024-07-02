@@ -5,7 +5,7 @@ nav:
   - Home: 
     - Introductions: 'index.md'
     - Writing: "writing/index.md"
-    - Services: "hire.md"
+    - Hire Me: "hire.md"
   - Writing:
     - "writing/index.md"
   - Hire Me: "hire.md"

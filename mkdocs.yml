@@ -29,6 +29,9 @@ plugins:
       post_url_format: "{date}/{slug}"
       authors_file: "{blog}/.authors.yml"
 
+markdown_extensions:
+  - attr_list
+
 extra:
   social:
     - icon: fontawesome/brands/twitter

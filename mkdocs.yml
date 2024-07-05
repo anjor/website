@@ -42,6 +42,6 @@ extra:
       link: https://www.linkedin.com/in/anjor-kanekar/
   analytics:
     provider: google
-    id: G-HHKQ3RWV3N
+    property: G-HHKQ3RWV3N
 
 copyright: Copyright &copy; 2023 Anjor Kanekar

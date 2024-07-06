@@ -1,5 +1,7 @@
 site_name: anjor.xyz
+site_author: Anjor Kanekar
 site_url: https://anjor.xyz
+repo_url: https://github.com/anjor/website
 
 nav:
   - Home: 

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2024-07-08
 categories:
   - career
@@ -20,6 +20,6 @@ However, a PhD is a long and painful journey. It can be quite lonely. So if you 
 
 Having said that I really enjoyed mine, so if you are that focused on it then go for it! It's also not a one way street. People do go back to doing a PhD after a career in industry - my good friend [satej](https://satejsoman.com/) is a great example! After a successful career at Palantir he decided to spend some time in academia, and seems to be enjoying it.
 
-If you are someone who is trying to decide between a PhD and a career in the industry, hope this short writeup helped. If you have any questions or want to discuss further, do get in touch - I am happy to talk through the pros and cons of each.
+If you are someone who is trying to decide between a PhD and a career in the industry, hope this short writeup helped. If you have any questions or want to discuss further, do get in touch - I am happy to chat.
 
 

@@ -10,7 +10,8 @@ nav:
     - Hire Me: "hire.md"
   - Writing:
     - "writing/index.md"
-  - Hire Me: "hire.md"
+  - Hire Me: 
+    - "hire.md"
 
 theme:
   name: material

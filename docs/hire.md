@@ -4,9 +4,9 @@
 Based on my past experience, I have niche expertise in the following areas:
 
 - Applied AI: I can help you build and productionize LLM products systematically.
-- Palantir Foundry: Having been a [Forward Deployed Engineer](https://blog.palantir.com/a-day-in-the-life-of-a-palantir-forward-deployed-software-engineer-45ef2de257b1) at Palantir for 7 years, I understand the ins and outs of Palantir Foundry and can help build the operating system for your enterprise.
 - Technical Hiring: I have conducted over 1000 interviews during my time at Palantir and Protocol Labs, and love helping build teams.
 - Blockchain/Decentralised Storage: I have extensive experience from my time at Protocol Labs in the area of decentralised storage.
+- Palantir Foundry: Having been a [Forward Deployed Engineer](https://blog.palantir.com/a-day-in-the-life-of-a-palantir-forward-deployed-software-engineer-45ef2de257b1) at Palantir for 7 years, I understand the ins and outs of Palantir Foundry and can help build the operating system for your enterprise.
 - Computational Physics
 
 ## Clients

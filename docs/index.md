@@ -5,6 +5,7 @@ I am a seasoned software engineer with over a decade of experience. My career en
 As a technical interviewer and hiring manager, I've conducted over 1,000 interviews, playing a crucial role in building high-performing teams. This extensive experience in talent assessment complements my technical expertise, enabling me to not only develop cutting-edge solutions but also identify and nurture top-tier technical talent.
 
 I am currently an independent consultant helping companies in the following areas:
+
 - Building and productionizing generative AI systems
 - Developing technical interview strategies and tools to accelerate hiring efforts
 - Building and productionizing data pipelines and operational workflows on top of Palantir Foundry

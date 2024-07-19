@@ -7,9 +7,12 @@ nav:
   - Home: 
     - Introductions: 'index.md'
     - Writing: "writing/index.md"
+    - Projects: "projects/index.md"
     - Hire Me: "hire.md"
   - Writing:
     - "writing/index.md"
+  - Projects:
+    - "projects/index.md"
   - Hire Me: 
     - "hire.md"
 
@@ -31,7 +34,14 @@ plugins:
       post_date_format: yyyy/MM/dd
       post_url_format: "{date}/{slug}"
       authors_file: "{blog}/.authors.yml"
-
+  - blog:
+      blog_dir: projects
+      blog_toc: true
+      post_dir: projects/posts
+      post_date_format: yyyy/MM/dd
+      post_url_format: "{date}/{slug}"
+      post_readtime: false
+      authors: false
 markdown_extensions:
   - attr_list
   - footnotes

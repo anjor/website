@@ -37,7 +37,7 @@ plugins:
   - blog:
       blog_dir: projects
       blog_toc: true
-      post_dir: projects/posts
+      post_dir: projects/projects
       post_date_format: yyyy/MM/dd
       post_url_format: "{date}/{slug}"
       post_readtime: false

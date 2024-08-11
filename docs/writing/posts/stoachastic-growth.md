@@ -17,7 +17,7 @@ Throughout my career I have been nothing if not confused. In fact, the confusion
 
 I spent 7 years at Palantir, and I can confidently say that I would not have stayed for that long if Palantir did not have the healthy approach to growth that it has. I got to explore a lot of different things in a relatively short timeframe. But there was more to it than just accelerated growth.
 
-At Palantir is expected that you own your growth. You are expected to be self-aware, critical, and intentional about how you grow. This is not an easy thing to do, especially early in your career. But it is what allows for people to grow into positions where they can have an outsized impact. It is also what keeps employees engaged and driven.
+At Palantir it is expected that you own your growth. You are expected to be self-aware, critical, and intentional about how you grow. This is not an easy thing to do, especially early in your career. But it is what allows for people to grow into positions where they can have an outsized impact. It is also what keeps employees engaged and driven.
 
 For me personally, this meant I was able to be an SRE, a Tech Lead, a backend developer, a product manager, a sales engineer, a data scientist, a data engineer, and a people manager during my 7 years at Palantir. This is what allowed me to go from managing a team of 20-25 people to being an IC dev on a backend team because I wanted to invest in my technical skills. Even when I moved from management to an IC role, I was still growing.
 

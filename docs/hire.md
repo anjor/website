@@ -11,6 +11,8 @@ Based on my past experience, I have niche expertise in the following areas:
 
 ## Clients
 
+- [Catena Labs](https://www.catena.xyz/): Helped develop libraries to benchmark and deploy ensembles of large language models.
+- _Name Redacted_: Redesigned the hiring function for an early stage startup enabling them to hire more effectively.
 - [Radiant AI](https://www.radiantai.com/): Helped Radiant AI design new LLM-based applications to demonstrate their capabilities and drive new business.
 - _Name Redacted_: Our team assisted a startup in the manufacturing sector in building an innovative product using generative AI for customised products. We also supported their recruitment efforts, helping them hire high-agency software engineers specialised in delivery.
 - [Triton](https://triton.one/): We assisted Triton with archiving blockchain data to Filecoin, ensuring secure and decentralised storage for their critical information.

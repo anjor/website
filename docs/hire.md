@@ -12,6 +12,7 @@ Based on my past experience, I have niche expertise in the following areas:
 ## Clients
 
 - [Catena Labs](https://www.catena.xyz/): Helped develop libraries to benchmark and deploy ensembles of large language models.
+- [Metaview](https://metaview.ai): Built a data asset that was then used to fine tune a model and build an application used to generate job descriptions.
 - _Name Redacted_: Redesigned the hiring function for an early stage startup enabling them to hire more effectively.
 - [Radiant AI](https://www.radiantai.com/): Helped Radiant AI design new LLM-based applications to demonstrate their capabilities and drive new business.
 - _Name Redacted_: Our team assisted a startup in the manufacturing sector in building an innovative product using generative AI for customised products. We also supported their recruitment efforts, helping them hire high-agency software engineers specialised in delivery.

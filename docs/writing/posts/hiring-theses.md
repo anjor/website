@@ -7,7 +7,7 @@ categories:
 ---
 # Hiring Theses
 
-Hiring exceptional candidates is hard. In [previous posts](/writing/category/hiring/) I have written about how one might go about identifying and interviewing strong candidates consistently.
+Hiring exceptional candidates is hard. In [previous posts](../category/hiring.md) I have written about how one might go about identifying and interviewing strong candidates consistently.
 
 In this post I would like to share a technique at the final stage of the hiring process that I have seen used at Palantir and Protocol Labs, and have found to be quite effective - namely, the hiring thesis.
 

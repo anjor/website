@@ -11,6 +11,7 @@ Based on my past experience, I have niche expertise in the following areas:
 
 ## Clients
 
+- [Comand AI](https://www.comand.ai/): Helped Comand AI develop their hiring strategy and build a team of high-agency software and machine learning engineers.
 - [Catena Labs](https://www.catena.xyz/): Helped develop libraries to benchmark and deploy ensembles of large language models.
 - [Metaview](https://metaview.ai): Built a data asset that was then used to fine tune a model and build an application used to generate job descriptions.
 - _Name Redacted_: Redesigned the hiring function for an early stage startup enabling them to hire more effectively.

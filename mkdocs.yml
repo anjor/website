@@ -1,31 +1,32 @@
 site_name: anjor.xyz
+site_description: Anjor Kanekar's personal website
 site_author: Anjor Kanekar
 site_url: https://anjor.xyz
 repo_url: https://github.com/anjor/website
 
 nav:
-  - Home: 
-    - Introductions: 'index.md'
-    - Writing: "writing/index.md"
-    - Projects: "projects/index.md"
-    - Hire Me: "hire.md"
+  - Home:
+      - Introductions: "index.md"
+      - Writing: "writing/index.md"
+      - Projects: "projects/index.md"
+      - Hire Me: "hire.md"
   - Writing:
-    - "writing/index.md"
+      - "writing/index.md"
   - Projects:
-    - "projects/index.md"
-  - Hire Me: 
-    - "hire.md"
+      - "projects/index.md"
+  - Hire Me:
+      - "hire.md"
 
 theme:
   name: material
   icon:
     repo: fontawesome/brands/github
-    edit: material/pencil 
+    edit: material/pencil
     view: material/eye
   features:
     - navigation.indexes
     - navigation.tabs
-  
+
 plugins:
   - blog:
       blog_dir: writing
@@ -42,6 +43,14 @@ plugins:
       post_url_format: "{date}/{slug}"
       post_readtime: false
       authors: false
+  - rss:
+      match_path: writing/posts/.*
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png
 markdown_extensions:
   - attr_list
   - footnotes

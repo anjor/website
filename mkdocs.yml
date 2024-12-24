@@ -63,6 +63,9 @@ extra:
       link: https://github.com/anjor
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/anjor-kanekar/
+    - icon: material/rss
+      link: /feed_rss_updated.xml
+      name: Subscribe to our RSS Feed
   analytics:
     provider: google
     property: G-HHKQ3RWV3N

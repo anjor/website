@@ -1,17 +1,51 @@
-# Introduction
+# Anjor Kanekar
 
-I am a seasoned software engineer with over a decade of experience. My career encompasses roles at industry leaders like [Palantir](https://www.palantir.com/) and [Protocol
-Labs](https://protocol.ai/), as well as at early stage startups, providing me with a unique perspective across varying scales of innovation.
+I help companies build elite technical organizations through hiring systems design and FDE-style organizational structure.
 
-As a technical interviewer and hiring manager, I've conducted over 1,000 interviews, playing a crucial role in building high-performing teams. This extensive experience in talent assessment complements my technical expertise, enabling me to not only develop cutting-edge solutions but also identify and nurture top-tier technical talent.
+I write about what actually works in hiring—based on 7 years at Palantir, 1,000+ interviews, and building teams at Protocol Labs and multiple startups.
 
-I am currently an independent consultant helping companies in the following areas:
+Currently running an experiment: rebuilding plasma physics simulations using AI to test whether intelligence explosion is real.
 
-- Building and productionizing generative AI systems
-- Developing technical interview strategies and tools to accelerate hiring efforts
-- Blockchain and decentralised storage solutions
-- Palantir Foundry consulting
+**Featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers)** on implementing Forward Deployed Engineering.
 
-## Get in Touch
+---
 
-Do you need help building out a new generative AI application, or productionize a prototype? Are you looking to revamp the hiring strategy for your early stage company? I'm available for new consulting work and other advisory roles. If you need help with your project, send me a brief email at `me@anjor.xyz`.
+## Popular Writing
+
+### Hiring & Organizations
+- **[The Unreasonable Effectiveness of Hiring Assholes](writing/2025/11/13/the-unreasonable-effectiveness-of-hiring-assholes/)** — Why conviction and ego are separate traits
+- **[Comand AI: A Hiring Case Study](writing/2024/09/28/comand-ai-a-hiring-case-study/)** — How we designed hiring for mission-driven engineers
+- **[Context Matters: Hiring is Not Fungible](writing/2024/08/27/context-matters-hiring-is-not-fungible/)** — Why generic hiring processes fail
+- **[Case Study: Building a Hiring Process for Northslope](writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/)** — Defining cultural traits vs role competencies
+
+### AI Experiments
+- **[Testing the Intelligence Explosion](writing/2025/11/05/testing-the-intelligence-explosion-can-ai-turn-one-physicist-into-a-research-team/)** — Can AI turn one physicist into a research team?
+- **[Building a Gyrokinetics Code Without Reading a Single Line](writing/2025/11/11/building-a-gyrokinetics-code-without-reading-a-single-line-the-development-log/)** — The development log
+
+[All writing →](writing/)
+
+---
+
+## About Me
+
+PhD in Computational Physics. 7 years at Palantir as a Forward Deployed Engineer and hiring manager. Built engineering teams at Protocol Labs (onboarding 2+ petabytes to Filecoin) and Radiant AI.
+
+I've conducted over 1,000 technical interviews and trained hundreds of interviewers. I built hiring systems that scaled from seed-stage startups to established companies.
+
+Now I help ambitious companies build hiring systems that actually work and structure their engineering organizations around customer outcomes.
+
+I'm also rebuilding my old plasma physics simulations using AI assistance—testing whether "intelligence explosion" is real by seeing if AI can accelerate research velocity.
+
+---
+
+## Work With Me
+
+I help companies at three levels:
+
+**Design your hiring system** (one-time project)  
+**Provide interview capacity** (monthly retainer) 
+**Lead your hiring function** (embedded partnership)
+
+[See services & case studies →](hire/)
+
+**Quick start:** Email me at me@anjor.xyz

@@ -134,6 +134,7 @@ Could this be taught? Could I package the workflow into something a pure physici
 The original GANDALF took me 6-7 months to build as a PhD student, working full-time. The new version took 30 days as a side project.
 
 But this isn't quite an apples-to-apples comparison:
+
 - PhD me was less experienced, had never written serious scientific code before
 - Current me could probably write this faster by hand than PhD me could
 - This is part-time work vs full-time

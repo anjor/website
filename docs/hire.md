@@ -72,11 +72,27 @@ Strategic guidance for technical decisions, architecture choices, and engineerin
 
 ## Selected Clients
 
+## Selected Clients
+
+### Hiring Systems & FDE Organizations
+
 **[Comand AI](https://www.comand.ai/)**: Designed hiring process for mission-driven engineers, combining product sense screening with technical depth. [Case study →](../writing/2024/09/28/comand-ai-a-hiring-case-study/)
 
-**[Northslope Technologies](https://www.northslopetech.com/)**: Built bespoke framework defining cultural traits vs role competencies. [Case study →](../writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/)
+**[Northslope Technologies](https://www.northslopetech.com/)**: Built bespoke framework defining cultural traits vs role competencies, creating interview stages that test for exact traits. [Case study →](../writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/)
 
-**[Metaview](https://metaview.ai)**: Built data asset for model fine-tuning and automated job description generation.
+**[Sparta Commodities](https://www.spartacommodities.com/)**: Provided interviewing bandwidth and trained internal interviewers to scale their hiring while maintaining quality bar.
+
+**[Prodigal Tech](https://www.prodigaltech.com/)**: Building their Forward Deployed Engineering organization from the ground up, including structure, processes, and culture.
+
+**[Fractal Analytics](https://fractal.ai/)**: Strategic advisory on FDE organizational design for their enterprise AI business.
+
+**[Object Edge](https://www.objectedge.com/)**: Helping build their Palantir services wing—hiring FDEs and providing technical strategy for platform implementations.
+
+**Confidential early-stage startup**: Redesigned entire hiring function enabling more effective technical hiring.
+
+### Technical Delivery & Advisory
+
+**[Metaview](https://metaview.ai)**: Built data asset for LLM fine-tuning and automated job description generation.
 
 **[Catena Labs](https://www.catena.xyz/)**: Developed libraries to benchmark and deploy LLM ensembles.
 
@@ -88,7 +104,7 @@ Strategic guidance for technical decisions, architecture choices, and engineerin
 
 **[Hence Technologies](https://hence.ai/)**: Enterprise legal workflow automation.
 
-*Plus multiple confidential engagements with early-stage companies on hiring system design and organizational structure.*
+**Multiple early-stage startups**: Hands-on MVP development in generative AI and blockchain spaces.
 
 ---
 

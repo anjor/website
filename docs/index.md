@@ -43,7 +43,9 @@ I'm also rebuilding my old plasma physics simulations using AI assistance—test
 I help companies at three levels:
 
 **Design your hiring system** (one-time project)  
+
 **Provide interview capacity** (monthly retainer) 
+
 **Lead your hiring function** (embedded partnership)
 
 [See services & case studies →](hire/)

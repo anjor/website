@@ -13,16 +13,16 @@ Currently running an experiment: rebuilding plasma physics simulations using AI 
 ## Popular Writing
 
 ### Hiring & Organizations
-- **[The Unreasonable Effectiveness of Hiring Assholes](writing/2025/11/13/the-unreasonable-effectiveness-of-hiring-assholes/)** — Why conviction and ego are separate traits
-- **[Comand AI: A Hiring Case Study](writing/2024/09/28/comand-ai-a-hiring-case-study/)** — How we designed hiring for mission-driven engineers
-- **[Context Matters: Hiring is Not Fungible](writing/2024/08/27/context-matters-hiring-is-not-fungible/)** — Why generic hiring processes fail
-- **[Case Study: Building a Hiring Process for Northslope](writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/)** — Defining cultural traits vs role competencies
+- **[The Unreasonable Effectiveness of Hiring Assholes](./writing/posts/hiring-assholes.md)** — Why conviction and ego are separate traits
+- **[Comand AI: A Hiring Case Study](./writing/posts/comand-ai.md)** — How we designed hiring for mission-driven engineers
+- **[Context Matters: Hiring is Not Fungible](./writing/posts/context-matters.md)** — Why generic hiring processes fail
+- **[Case Study: Building a Hiring Process for Northslope](./writing/posts/smart-win.md)** — Defining cultural traits vs role competencies
 
 ### AI Experiments
-- **[Testing the Intelligence Explosion](writing/2025/11/05/testing-the-intelligence-explosion-can-ai-turn-one-physicist-into-a-research-team/)** — Can AI turn one physicist into a research team?
-- **[Building a Gyrokinetics Code Without Reading a Single Line](writing/2025/11/11/building-a-gyrokinetics-code-without-reading-a-single-line-the-development-log/)** — The development log
+- **[Testing the Intelligence Explosion](./writing/posts/physics-researcher-ai-intro.md)** — Can AI turn one physicist into a research team?
+- **[Building a Gyrokinetics Code Without Reading a Single Line](./writing/posts/building-gandalf.md)** — The development log
 
-[All writing →](writing/)
+[All writing →](writing/index.md)
 
 ---
 
@@ -48,6 +48,6 @@ I help companies at three levels:
 
 **Lead your hiring function** (embedded partnership)
 
-[See services & case studies →](hire/)
+[See services & case studies →](hire.md)
 
 **Quick start:** Email me at me@anjor.xyz

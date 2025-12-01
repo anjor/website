@@ -19,8 +19,8 @@ Ideal for early-stage teams (Seed - Series B) who need to build a repeatable hir
 - Interviewer calibration: hands-on training to align your team
 
 **Case studies:**
-- [Comand AI](../writing/2024/09/28/comand-ai-a-hiring-case-study/): Designed hiring for mission-driven engineers
-- [Northslope Technologies](../writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/): Built bespoke framework defining cultural traits vs role competencies
+- [Comand AI](./writing/posts/comand-ai.md): Designed hiring for mission-driven engineers
+- [Northslope Technologies](./writing/posts/smart-win.md): Built bespoke framework defining cultural traits vs role competencies
 
 ---
 
@@ -76,9 +76,9 @@ Strategic guidance for technical decisions, architecture choices, and engineerin
 
 ### Hiring Systems & FDE Organizations
 
-**[Comand AI](https://www.comand.ai/)**: Designed hiring process for mission-driven engineers, combining product sense screening with technical depth. [Case study →](../writing/2024/09/28/comand-ai-a-hiring-case-study/)
+**[Comand AI](https://www.comand.ai/)**: Designed hiring process for mission-driven engineers, combining product sense screening with technical depth. [Case study →](./writing/posts/comand-ai.md)
 
-**[Northslope Technologies](https://www.northslopetech.com/)**: Built bespoke framework defining cultural traits vs role competencies, creating interview stages that test for exact traits. [Case study →](../writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/)
+**[Northslope Technologies](https://www.northslopetech.com/)**: Built bespoke framework defining cultural traits vs role competencies, creating interview stages that test for exact traits. [Case study →](./writing/posts/smart-win.md)
 
 **[Sparta Commodities](https://www.spartacommodities.com/)**: Provided interviewing bandwidth and trained internal interviewers to scale their hiring while maintaining quality bar.
 
@@ -137,7 +137,7 @@ I'll respond within 24 hours to schedule a consultation call.
 Same email: me@anjor.xyz
 
 **Want to learn more first?**  
-Read my [case studies](../writing/category/hiring/) or connect on [LinkedIn](https://linkedin.com/in/anjor-kanekar).
+Read my [case studies](./writing/category/hiring.md) or connect on [LinkedIn](https://linkedin.com/in/anjor-kanekar).
 
 ---
 

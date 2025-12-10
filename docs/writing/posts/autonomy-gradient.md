@@ -12,11 +12,11 @@ In the [first post](./physics-researcher-ai-intro.md), I asked whether AI could 
 
 Now the [paper is written](https://github.com/anjor/gandalf-paper). Time to step back and ask: what did we actually learn?
 
-The headline is seductive: 21 days, $558, working code. But the numbers hide the real finding. AI effectiveness isn't uniform—it varies dramatically depending on what you're asking it to do. I call this the *autonomy gradient*, and understanding it is the key to making AI-assisted research work.
+The headline is seductive: 21 days, $558, working code. But the numbers hide the real finding. AI effectiveness isn't uniform. It varies dramatically depending on what you're asking it to do. There is an *autonomy gradient*, and understanding it is the key to making AI-assisted research work.
 
 ## The Numbers
 
-Let me start with what went right:
+What went right:
 
 - **21 active development days** (spanning about a month of calendar time)
 - **$558 in API costs**
@@ -45,7 +45,7 @@ AI effectiveness isn't binary—it follows a gradient from near-total autonomy t
 | Parameter tuning | ~10% | Full guidance |
 | Research direction | ~0% | Entirely human |
 
-The pattern: AI can implement what is specified but cannot determine what to specify.
+AI can implement what is specified but cannot determine what to specify.
 
 Here's what high autonomy looks like in practice. After discussing that we needed energy spectrum diagnostics, my entire prompt was:
 
@@ -116,7 +116,7 @@ Here's the interesting part: in both cases, the model was transparent. It admitt
 
 Back to the intelligence explosion hypothesis from my first post. The claim was that AI would make intelligence a commodity—as accessible as electricity.
 
-My verdict: **not yet, but the direction is clear**.
+This experiment suggests **not yet, but the direction is clear**.
 
 What AI provides is better described as "capable undergraduate researcher"—able to execute well-specified tasks but requiring supervision for judgment-dependent work. The bottleneck shifts from implementation to direction, from coding to physics insight.
 

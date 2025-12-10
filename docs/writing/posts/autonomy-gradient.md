@@ -31,6 +31,8 @@ But these numbers obscure the central finding.
 
 AI effectiveness isn't binary—it follows a gradient from near-total autonomy to complete human dependence:
 
+![Autonomy Gradient](../assets/autonomy-gradient.png)
+
 | Task | AI Autonomy | Human Role |
 |------|-------------|------------|
 | Code implementation | ~100% | Specifications |

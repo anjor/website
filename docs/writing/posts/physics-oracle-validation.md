@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2025-12-11
+date: 2025-12-10
 categories:
   - physics
   - ai

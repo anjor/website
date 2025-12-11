@@ -44,14 +44,16 @@ I recently completed rebuilding my plasma physics simulations with AI assistance
 
 ## Work With Me
 
-I help companies at three levels:
+I help companies build elite technical organizations across four key areas:
 
-**Design your hiring system** (one-time project)  
+**Hiring & Talent Systems** — Design hiring processes, provide interview capacity, lead hiring functions
 
-**Provide interview capacity** (monthly retainer) 
+**FDE & Organizational Strategy** — Build Palantir-style forward deployed engineering teams and operating models
 
-**Lead your hiring function** (embedded partnership)
+**AI Strategy & Adoption** — Guide AI implementation, validate AI capabilities, advise on AI-assisted workflows
 
-[See services & case studies →](hire.md)
+**Palantir Ecosystem** — Technical strategy, FDE hiring, platform implementation expertise
+
+[See full services & case studies →](hire.md)
 
 **Quick start:** Email me at me@anjor.xyz

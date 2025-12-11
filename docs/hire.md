@@ -1,12 +1,14 @@
 # Work With Me
 
-I help companies build elite technical organizations. Whether you need to design a world-class hiring system, structure an FDE-style organization, or get hands-on technical help—I've done it at scale.
+I help companies build elite technical organizations across hiring systems, FDE strategy, AI adoption, and Palantir ecosystem consulting.
 
 ---
 
-## How We Work Together
+## Service Areas
 
-### 1. The Hiring Blueprint
+### Hiring & Talent Systems
+
+**The Hiring Blueprint**
 **A one-time project to design and install your hiring engine.**
 
 Ideal for early-stage teams (Seed - Series B) who need to build a repeatable hiring process from scratch.
@@ -24,7 +26,7 @@ Ideal for early-stage teams (Seed - Series B) who need to build a repeatable hir
 
 ---
 
-### 2. Interviewing as a Service (IaaS)
+**Interviewing as a Service (IaaS)**
 **On-demand expert interview capacity to scale your team without draining your engineers.**
 
 Ideal for teams with an established process who need to increase hiring velocity while maintaining a high bar.
@@ -41,7 +43,7 @@ Ideal for teams with an established process who need to increase hiring velocity
 
 ---
 
-### 3. Embedded Hiring Partner
+**Embedded Hiring Partner**
 **Strategic partnership to build, lead, and execute your entire technical hiring function.**
 
 Ideal for well-funded startups building a core team of 5-10+ engineers quickly and correctly, needing senior leadership without the full-time executive cost.
@@ -53,20 +55,82 @@ Ideal for well-funded startups building a core team of 5-10+ engineers quickly a
 
 ---
 
-## Additional Services
+### FDE & Organizational Strategy
 
-### FDE Organization Building
-Design and implement Palantir-style forward deployed engineering organizations. Structure teams around customer outcomes, define operating models, build the culture of ownership that makes FDEs effective.
+**Forward Deployed Engineering Organization Design**
 
-### Hands-On Technical Work
-When strategic advice isn't enough, I build:
-- **Generative AI applications**: LLM products, fine-tuning pipelines, evaluation frameworks
-- **Blockchain development**: Smart contracts, data archival, Web3 infrastructure
-- **Palantir Foundry**: Custom applications, data pipelines, production deployments
-- **Computational physics**: Simulation development, numerical methods
+Design and implement Palantir-style FDE organizations from scratch. I help you:
+- Structure teams around customer outcomes, not org charts
+- Define the operating model that makes FDEs effective
+- Build the culture of radical ownership
+- Hire and onboard FDEs who can thrive in the model
+
+This is the model that made Palantir successful. I spent 7 years as an FDE and know how to transplant it to other organizations.
+
+**Featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers)** on Forward Deployed Engineering.
+
+**Case studies:**
+- [Prodigal Tech](https://www.prodigaltech.com/): Building their FDE organization from the ground up
+- [Fractal Analytics](https://fractal.ai/): Strategic advisory on FDE organizational design for enterprise AI business
+- [Object Edge](https://www.objectedge.com/): Building Palantir services wing with FDE hiring and strategy
+
+---
+
+### AI Strategy & Adoption
+
+**AI Implementation Strategy**
+
+Most companies are experimenting with AI without a clear framework for what works. I help you:
+- Understand where AI amplifies expertise vs where it fails (the autonomy gradient)
+- Design validation methodologies for AI-generated outputs
+- Build AI-assisted workflows that actually increase productivity
+- Evaluate AI tools and platforms for your use case
+
+Based on hands-on research: I rebuilt 3,500 lines of physics simulation code in 21 days using AI, documented everything, and published the [findings](https://github.com/anjor/gandalf-paper). I know what AI can and can't do because I've tested the limits.
+
+**Technical Delivery**
+
+When strategy isn't enough, I build:
+- LLM applications and fine-tuning pipelines
+- AI evaluation frameworks
+- Proof-of-concept AI implementations
+
+**Recent work:**
+- [Metaview](https://metaview.ai): Built data asset for LLM fine-tuning and automated job description generation
+- [Catena Labs](https://www.catena.xyz/): Developed libraries to benchmark and deploy LLM ensembles
+- [Radiant AI](https://www.radiantai.com/): Designed LLM-based applications demonstrating governance capabilities
+
+---
+
+### Palantir Ecosystem Consulting
+
+**For Companies Using or Considering Palantir**
+
+I help organizations successfully adopt and implement Palantir Foundry:
+- Technical strategy and architecture design
+- Custom application development and data pipelines
+- Production deployments and platform implementation
+- Advisory on making Foundry work for your use case
+
+**For Companies Building Palantir Services**
+
+I help SI/consulting firms build their Palantir practice:
+- Hiring FDEs who can succeed in Palantir ecosystem
+- Training non-Palantir engineers on Foundry
+- Strategic positioning in Palantir partner ecosystem
+- Technical delivery for Foundry projects
+
+**Recent work:**
+- [Object Edge](https://www.objectedge.com/): Building Palantir services wing with FDE hiring and technical strategy
+
+---
 
 ### Fractional CTO / Technical Advisory
-Strategic guidance for technical decisions, architecture choices, and engineering leadership. Especially valuable for teams working with Palantir Foundry or navigating complex technical transformations.
+
+Strategic guidance for technical decisions, architecture choices, and engineering leadership. Especially valuable for:
+- Teams navigating complex technical transformations
+- Early-stage companies needing senior technical leadership without full-time exec cost
+- Organizations working across multiple domains (AI, blockchain, data infrastructure)
 
 ---
 
@@ -111,7 +175,7 @@ Strategic guidance for technical decisions, architecture choices, and engineerin
 ## Why Work With Me?
 
 **Technical Credibility**
-I'm not an ex-engineer advising from the sidelines. I'm currently rebuilding plasma physics simulations using AI—testing intelligence explosion through active research. When I evaluate technical candidates or design technical interviews, I understand what great engineering looks like because I'm still doing it.
+I'm not an ex-engineer advising from the sidelines. I recently completed rebuilding plasma physics simulations using AI—validating through hands-on research how AI amplifies expertise rather than replacing it. When I evaluate technical candidates or design technical interviews, I understand what great engineering looks like because I'm still doing it.
 
 **Hiring Expertise at Scale**
 1,000+ interviews. 600+ as hiring manager at Palantir. Trained hundreds of interviewers. Built hiring systems for companies from seed to Series B. Featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers).

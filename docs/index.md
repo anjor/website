@@ -1,10 +1,12 @@
 # Anjor Kanekar
 
+![The Autonomy Gradient: AI effectiveness across research tasks](./writing/assets/autonomy-gradient.png){ width="700" }
+
 I help companies build elite technical organizations through hiring systems design and FDE-style organizational structure.
 
 I write about what actually works in hiring—based on 7 years at Palantir, 1,000+ interviews, and building teams at Protocol Labs and multiple startups.
 
-Currently running an experiment: rebuilding plasma physics simulations using AI to test whether intelligence explosion is real.
+Recently completed research on AI-assisted physics: AI amplifies expertise rather than replacing it. The effectiveness follows an autonomy gradient—from ~100% for code implementation to ~0% for research direction.
 
 **Featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers)** on implementing Forward Deployed Engineering.
 
@@ -18,9 +20,10 @@ Currently running an experiment: rebuilding plasma physics simulations using AI 
 - **[Context Matters: Hiring is Not Fungible](./writing/posts/context-matters.md)** — Why generic hiring processes fail
 - **[Case Study: Building a Hiring Process for Northslope](./writing/posts/smart-win.md)** — Defining cultural traits vs role competencies
 
-### AI Experiments
-- **[Testing the Intelligence Explosion](./writing/posts/physics-researcher-ai-intro.md)** — Can AI turn one physicist into a research team?
-- **[Building a Gyrokinetics Code Without Reading a Single Line](./writing/posts/building-gandalf.md)** — The development log
+### AI Research & Validation
+- **[The Autonomy Gradient](./writing/posts/autonomy-gradient.md)** — What AI can and can't do in physics research
+- **[Physics-Oracle Validation](./writing/posts/physics-oracle-validation.md)** — How to trust code you've never read
+- **[Writing a Physics Paper with Claude](./writing/posts/writing-gandalf-paper.md)** — Workflow, iterations, and hallucinations caught in review
 
 [All writing →](writing/index.md)
 
@@ -34,7 +37,7 @@ I've conducted over 1,000 technical interviews and trained hundreds of interview
 
 Now I help ambitious companies build hiring systems that actually work and structure their engineering organizations around customer outcomes.
 
-I'm also rebuilding my old plasma physics simulations using AI assistance—testing whether "intelligence explosion" is real by seeing if AI can accelerate research velocity.
+I recently completed rebuilding my plasma physics simulations with AI assistance—validating that AI amplifies expertise rather than replacing it. The paper is available on [GitHub](https://github.com/anjor/gandalf-paper) along with the [code](https://github.com/anjor/gandalf).
 
 ---
 

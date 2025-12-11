@@ -1,7 +1,5 @@
 # Anjor Kanekar
 
-![The Autonomy Gradient: AI effectiveness across research tasks](./writing/assets/autonomy-gradient.png){ width="700" }
-
 I help companies build elite technical organizations through hiring systems design and FDE-style organizational structure.
 
 I write about what actually works in hiring—based on 7 years at Palantir, 1,000+ interviews, and building teams at Protocol Labs and multiple startups.
@@ -21,6 +19,9 @@ Recently completed research on AI-assisted physics: AI amplifies expertise rathe
 - **[Case Study: Building a Hiring Process for Northslope](./writing/posts/smart-win.md)** — Defining cultural traits vs role competencies
 
 ### AI Research & Validation
+
+![The Autonomy Gradient: AI effectiveness across research tasks](./writing/assets/autonomy-gradient.png){ width="700" }
+
 - **[The Autonomy Gradient](./writing/posts/autonomy-gradient.md)** — What AI can and can't do in physics research
 - **[Physics-Oracle Validation](./writing/posts/physics-oracle-validation.md)** — How to trust code you've never read
 - **[Writing a Physics Paper with Claude](./writing/posts/writing-gandalf-paper.md)** — Workflow, iterations, and hallucinations caught in review

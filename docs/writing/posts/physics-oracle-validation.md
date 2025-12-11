@@ -44,6 +44,8 @@ This is the easiest test. If linear physics is wrong, nothing else matters. Clau
 
 Invariants that should be maintained during nonlinear evolution. The Orszag-Tang vortex—a standard MHD benchmark—should conserve total energy even as kinetic and magnetic energy slosh back and forth.
 
+![Orszag-Tang Vortex](../assets/orszag_tang_structures.png)
+
 **Expected precision**: ~10⁻⁶ over many dynamical times
 
 **What it validates**: Nonlinear terms, Poisson bracket discretization, spectral accuracy

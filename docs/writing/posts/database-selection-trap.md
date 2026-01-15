@@ -127,3 +127,7 @@ Start with one interview. Make it 10% more realistic. See what changes.
 Because somewhere out there is an engineer who would be fantastic on your team but can't remember if MongoDB uses documents or collections in the heat of an interview.
 
 Do you really want to miss out on them because of that?
+
+---
+
+*Implementing an FDE hiring program? See my [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) for interview templates, scorecards, and detailed process guides.*

@@ -62,3 +62,7 @@ However, identifying and hiring the right FDEs can be a challenging process. It 
 If you're intrigued by the potential of FDEs but find yourself struggling with the hiring process, I'm here to help. Whether you need advice on interview techniques, assistance in defining the role for your organization, or strategies for assessing candidates, feel free to reach out. 
 
 Contact me at `me@anjor.xyz` to discuss how we can improve your hiring process and build a team of high-impact problem solvers. Let's work together to bring the transformative power of FDEs to your organization.
+
+---
+
+*Implementing an FDE hiring program? See my [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) for interview templates, scorecards, and detailed process guides.*

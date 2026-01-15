@@ -56,5 +56,9 @@ Honestly, it is just about being genuinely curious and getting to know them as a
 
 Conducting a motivational interview is not just about identifying whether a candidate fits into the existing culture of the company. Instead, it's about understanding the underlying drivers that keep them engaged and productive in their work. If you manage to understand that at a deep level that can guide your hiring as well as staffing decisions.
 
-Remember that a motivational interview should be approached with genuine curiosity. Investigating a candidate's motivations through thoughtful, open-ended questions can reveal insights that go far beyond their resume. This approach ensures that you are not only bringing in capable individuals but also those whose motivations align with and enhance the team’s dynamic.
+Remember that a motivational interview should be approached with genuine curiosity. Investigating a candidate's motivations through thoughtful, open-ended questions can reveal insights that go far beyond their resume. This approach ensures that you are not only bringing in capable individuals but also those whose motivations align with and enhance the team's dynamic.
+
+---
+
+*Implementing an FDE hiring program? See my [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) for interview templates, scorecards, and detailed process guides.*
 

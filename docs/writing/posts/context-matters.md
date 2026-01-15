@@ -75,3 +75,7 @@ Through these engagements I learned a lot about how context matters in hiring. H
 Effective hiring is not just about filling roles; it's about building a team that can execute on your vision and drive your company forward. By understanding the nuances of your company's context – its stage, culture, and strategic goals – you can design a hiring process that not only attracts top talent but also ensures that talent is the right fit for your specific needs.
 
 Remember, the goal isn't to hire the "best" people in absolute terms, but to hire the right people for your context. This mindset shift can make all the difference in building a team that's truly equipped to tackle your unique challenges and opportunities.
+
+---
+
+*Implementing an FDE hiring program? See my [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) for interview templates, scorecards, and detailed process guides.*

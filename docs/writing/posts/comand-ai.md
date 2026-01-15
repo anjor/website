@@ -62,3 +62,7 @@ And all of this without losing sight of the mission and vision of the company. B
 
 Get in touch if you would like to work at Comand AI, or if you would like to know more about the hiring process we are building. I am always happy to chat about hiring, startups, and everything in between.
 If you are currently in the process of hiring for your startup, and would like some help, feel free to reach out to me at `me@anjor.xyz`.
+
+---
+
+*Implementing an FDE hiring program? See my [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) for interview templates, scorecards, and detailed process guides.*

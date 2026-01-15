@@ -47,3 +47,9 @@ Ultimately, the hiring thesis is more than just a document—it's a commitment t
 
 
 Get in touch by emailing `me@anjor.xyz` if you are an early stage startup looking to improve your hiring process.
+
+*I've turned this into a template: [Hiring Thesis Template](https://anjor.github.io/fde-advisory-materials/resources/people/interview-scorecard/) (see the Hiring Manager section).*
+
+---
+
+*Implementing an FDE hiring program? See my [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) for interview templates, scorecards, and detailed process guides.*

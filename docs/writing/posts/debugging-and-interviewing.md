@@ -35,3 +35,7 @@ The answers will prove/disprove your hypothesis, but will also provide you with 
 ## Conclusion
 
 A lot of engineers do not like interviewing. I find that a bit strange because as engineers we reason about complex systems on a daily basis. Interviewing is not that different. Taking a scientific approach to interviewing is not only effective, but will hopefully help you enjoy the process of interviewing - in turn making you a better interviewer.
+
+---
+
+*Implementing an FDE hiring program? See my [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) for interview templates, scorecards, and detailed process guides.*

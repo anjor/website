@@ -44,3 +44,7 @@ Get in touch if you would like to discuss this topic further, or if you think I 
 
 
 [^1]: I know a cofounder of Metaview personally, but this post was not sponsored by them in any way. Nor do I know if they agree with the thoughts in this post. I genuinely think it's a great product!
+
+---
+
+*Implementing an FDE hiring program? See my [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) for interview templates, scorecards, and detailed process guides.*

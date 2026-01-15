@@ -36,3 +36,7 @@ This attitude is infectious, it is additive. It will rub off on the rest of the 
 
 Of course there are other qualities that are important, and I have written about them in the past. But these two, to some degree
 are "must haves". Be on the lookout for them.
+
+---
+
+*Implementing an FDE hiring program? See my [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) for interview templates, scorecards, and detailed process guides.*

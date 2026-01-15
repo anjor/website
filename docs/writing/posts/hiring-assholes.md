@@ -112,3 +112,7 @@ Don't confuse the two.
 ---
 
 What's your experience? Have you seen companies successfully separate conviction from toxicity? Or is this just naive optimism?
+
+---
+
+*Implementing an FDE hiring program? See my [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) for interview templates, scorecards, and detailed process guides.*

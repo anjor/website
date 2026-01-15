@@ -62,3 +62,9 @@ The question isn't whether you can do these things. It's whether you will.
 ---
 
 *Building an FDE organization? These principles are your hiring rubric. Look for engineers who already think this way.*
+
+*These principles form the evaluation criteria in my [FDE Interview Scorecard](https://anjor.github.io/fde-advisory-materials/resources/people/interview-scorecard/).*
+
+---
+
+*Implementing an FDE hiring program? See my [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) for interview templates, scorecards, and detailed process guides.*

@@ -39,3 +39,9 @@ If you're looking to improve your company's hiring process, I can help. I offer:
 - Guidance on building a hiring function
 
 Whether you're a startup founder or an HR leader in a growing company, let's discuss how to elevate your hiring to the next level. Contact me for a free consultation.
+
+*I've documented this centralized hiring approach in my [FDE Hiring & Talent Strategy guide](https://anjor.github.io/fde-advisory-materials/01-hiring-talent-strategy/).*
+
+---
+
+*Implementing an FDE hiring program? See my [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) for interview templates, scorecards, and detailed process guides.*

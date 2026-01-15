@@ -40,3 +40,7 @@ The key to effective interviewing lies in balancing empathy with objectivity:
 Interviews are inherently unfair because they can never capture a person's full potential or fit within a short interaction. However, by acknowledging this limitation and consciously balancing empathy with objectivity, we can make more informed hiring decisions.
 
 Remember, the goal isn't just to be fair to the candidate in the moment, but to make the best decision for your company's future. Sometimes, that means passing on a good candidate in hopes of finding a great one.
+
+---
+
+*Implementing an FDE hiring program? See my [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) for interview templates, scorecards, and detailed process guides.*

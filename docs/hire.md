@@ -83,6 +83,10 @@ This is the model that made Palantir successful. I spent 7 years as an FDE and k
 - [Fractal Analytics](https://fractal.ai/): Strategic advisory on FDE organizational design for enterprise AI business
 - [Object Edge](https://www.objectedge.com/): Building Palantir services wing with FDE hiring and strategy
 
+**Resources:**
+
+- [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/): Interview templates, scorecards, and implementation guides
+
 ---
 
 ### AI Strategy & Adoption

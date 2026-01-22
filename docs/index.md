@@ -17,6 +17,7 @@ Recently completed research on AI-assisted physics: AI amplifies expertise rathe
 - **[Comand AI: A Hiring Case Study](./writing/posts/comand-ai.md)** — How we designed hiring for mission-driven engineers
 - **[Context Matters: Hiring is Not Fungible](./writing/posts/context-matters.md)** — Why generic hiring processes fail
 - **[Case Study: Building a Hiring Process for Northslope](./writing/posts/smart-win.md)** — Defining cultural traits vs role competencies
+- **[FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/)** — Complete guide to building Forward Deployed Engineering teams
 
 ### AI Research & Validation
 

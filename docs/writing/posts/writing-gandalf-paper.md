@@ -3,7 +3,6 @@ draft: false
 date: 2025-12-01
 categories:
   - physics
-  - ai
 ---
 
 # Writing a Physics Paper with Claude: What Actually Happened

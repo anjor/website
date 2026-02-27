@@ -2,7 +2,6 @@
 draft: false
 date: 2024-07-05
 categories:
-  - hiring
   - palantir
 ---
 

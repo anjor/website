@@ -2,7 +2,7 @@
 draft: false
 date: 2026-02-11
 categories:
-  - tech
+  - ai
 ---
 
 # Setting Up Jeeves: What Actually Made My AI Assistant Useful

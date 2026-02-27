@@ -3,7 +3,6 @@ draft: false
 date: 2026-02-27
 categories:
   - fde
-  - ai
 ---
 
 # What Claude Code's Creator Validated About Forward Deployed Engineering

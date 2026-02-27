@@ -2,7 +2,7 @@
 draft: false
 date: 2025-11-20
 categories:
-  - hiring
+  - fde
 ---
 
 # The FDE Manifesto: What Would Stokes Do?

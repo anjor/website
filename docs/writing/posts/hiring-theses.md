@@ -2,7 +2,6 @@
 draft: false
 date: 2024-08-02
 categories:
-  - hiring
   - palantir
 ---
 # Hiring Theses

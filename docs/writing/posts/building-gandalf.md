@@ -3,7 +3,6 @@ draft: false
 date: 2025-11-11
 categories:
   - physics
-  - ai
 ---
 
 # Building a Gyrokinetics Code Without Reading a Single Line: The Development Log

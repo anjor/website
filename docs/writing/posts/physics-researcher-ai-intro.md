@@ -3,7 +3,6 @@ draft: false
 date: 2025-11-05
 categories:
   - physics
-  - ai
 ---
 
 # Testing the Intelligence Explosion: Can AI Turn One Physicist Into a Research Team?

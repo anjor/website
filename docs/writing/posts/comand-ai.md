@@ -2,7 +2,7 @@
 draft: false
 date: 2024-12-12
 categories:
-  - hiring
+  - palantir
 ---
 
 # Hiring for a mission-driven early-stage startup

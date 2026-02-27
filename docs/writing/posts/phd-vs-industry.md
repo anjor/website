@@ -3,7 +3,6 @@ draft: false
 date: 2024-07-08
 categories:
   - career
-  - academia
 ---
 
 # Is a PhD worth it?

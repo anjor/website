@@ -2,7 +2,7 @@
 draft: false
 date: 2025-11-13
 categories:
-  - hiring
+  - palantir
 ---
 
 # The Unreasonable Effectiveness of Hiring Assholes

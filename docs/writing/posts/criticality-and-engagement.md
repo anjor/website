@@ -2,7 +2,7 @@
 draft: false
 date: 2024-12-17
 categories:
-  - hiring
+  - palantir
 ---
 # Criticality and Engagement
 

@@ -3,7 +3,6 @@ draft: false
 date: 2025-12-10
 categories:
   - physics
-  - ai
 ---
 
 # Physics-Oracle Validation: How to Trust Code You've Never Read

@@ -2,8 +2,7 @@
 draft: false
 date: 2024-07-03
 categories:
-  - hiring
-  - palantir
+  - fde
 ---
 # Forward Deployed Engineers and how to hire them
 

@@ -2,7 +2,6 @@
 draft: false
 date: 2024-07-18
 categories:
-  - hiring
   - palantir
 ---
 # How did Palantir hire so well?

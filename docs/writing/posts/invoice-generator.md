@@ -2,8 +2,7 @@
 draft: false
 date: 2024-07-04
 categories:
-  - ai experiments
-  - tools
+  - ai
 ---
 # Invoice Generator built using OpenDevin
 

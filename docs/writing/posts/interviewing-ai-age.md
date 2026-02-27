@@ -3,7 +3,6 @@ draft: false
 date: 2026-02-22
 categories:
   - hiring
-  - ai
 ---
 # Interviewing in the age of AI
 

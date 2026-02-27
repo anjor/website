@@ -2,7 +2,7 @@
 draft: false
 date: 2024-11-27
 categories:
-  - hiring
+  - palantir
 ---
 # A Hiring Framework for a New Kind of Services Company
 

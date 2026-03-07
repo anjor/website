@@ -1,12 +1,14 @@
 # Anjor Kanekar
 
-I help companies build elite technical organizations through hiring systems design and FDE-style organizational structure.
+I'm the founder of [Platypus Technologies](https://platypustech.xyz), where I help companies build Forward Deployed Engineering functions.
 
-I write about what actually works in hiring—based on 7 years at Palantir, 1,000+ interviews, and building teams at Protocol Labs and multiple startups.
+---
 
-Recently completed research on AI-assisted physics: AI amplifies expertise rather than replacing it. The effectiveness follows an autonomy gradient—from ~100% for code implementation to ~0% for research direction.
+## About Me
 
-**Featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers)** on implementing Forward Deployed Engineering.
+PhD in Computational Physics from the University of Maryland. I spent 7 years at Palantir as a Forward Deployed Engineer and hiring manager, conducted over 1,000 technical interviews, and trained hundreds of interviewers. Featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers) on how FDE organizations work.
+
+I recently rebuilt my plasma physics simulations with AI assistance — validating that AI amplifies expertise rather than replacing it. The paper is on [GitHub](https://github.com/anjor/gandalf-paper) along with the [code](https://github.com/anjor/gandalf).
 
 ---
 
@@ -31,30 +33,8 @@ Recently completed research on AI-assisted physics: AI amplifies expertise rathe
 
 ---
 
-## About Me
-
-PhD in Computational Physics. 7 years at Palantir as a Forward Deployed Engineer and hiring manager. Built engineering teams at Protocol Labs (onboarding 2+ petabytes to Filecoin) and Radiant AI.
-
-I've conducted over 1,000 technical interviews and trained hundreds of interviewers. I built hiring systems that scaled from seed-stage startups to established companies.
-
-Now I help ambitious companies build hiring systems that actually work and structure their engineering organizations around customer outcomes.
-
-I recently completed rebuilding my plasma physics simulations with AI assistance—validating that AI amplifies expertise rather than replacing it. The paper is available on [GitHub](https://github.com/anjor/gandalf-paper) along with the [code](https://github.com/anjor/gandalf).
-
----
-
 ## Work With Me
 
-I help companies build elite technical organizations across four key areas:
+I run [Platypus Technologies](https://platypustech.xyz), where I help companies build and run Forward Deployed Engineering functions — from hiring the team to embedding as a fractional technical leader.
 
-**Hiring & Talent Systems** — Design hiring processes, provide interview capacity, lead hiring functions
-
-**FDE & Organizational Strategy** — Build Palantir-style forward deployed engineering teams and operating models
-
-**AI Strategy & Adoption** — Guide AI implementation, validate AI capabilities, advise on AI-assisted workflows
-
-**Palantir Ecosystem** — Technical strategy, FDE hiring, platform implementation expertise
-
-[See full services & case studies →](hire.md)
-
-**Quick start:** Email me at me@anjor.xyz
+If you're building an FDE function or thinking about it, [let's talk](mailto:work@platypustech.xyz).

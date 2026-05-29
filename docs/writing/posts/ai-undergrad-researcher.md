@@ -1,6 +1,7 @@
 ---
 draft: false
 date: 2026-05-29
+slug: ai-undergrad-researcher
 categories:
   - physics
 ---

@@ -45,7 +45,7 @@ Implementing a hiring thesis process may require some initial effort, but the lo
 Ultimately, the hiring thesis is more than just a document—it's a commitment to nurturing talent and fostering an environment where both individuals and the company can thrive. By adopting this approach, you're not just filling positions; you're strategically building the future of your organization, one carefully considered hire at a time.
 
 
-Get in touch by emailing `me@anjor.xyz` if you are an early stage startup looking to improve your hiring process.
+Get in touch by emailing `anjor@platypustech.xyz` if you are an early stage startup looking to improve your hiring process.
 
 *I've turned this into a template: [Hiring Thesis Template](https://anjor.github.io/fde-advisory-materials/resources/people/interview-scorecard/) (see the Hiring Manager section).*
 

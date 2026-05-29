@@ -61,7 +61,7 @@ As Comand AI continues to grow, they will need to continue to iterate on their h
 And all of this without losing sight of the mission and vision of the company. But the passion and drive of the founding team was apparent since the beginning, and I am confident that they will be able to build a team that can help them achieve their goals.
 
 Get in touch if you would like to work at Comand AI, or if you would like to know more about the hiring process we are building. I am always happy to chat about hiring, startups, and everything in between.
-If you are currently in the process of hiring for your startup, and would like some help, feel free to reach out to me at `me@anjor.xyz`.
+If you are currently in the process of hiring for your startup, and would like some help, feel free to reach out to me at `anjor@platypustech.xyz`.
 
 ---
 

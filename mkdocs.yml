@@ -5,11 +5,12 @@ site_url: https://anjor.xyz
 repo_url: https://github.com/anjor/website
 
 nav:
-  - Home:
-      - Introductions: "index.md"
-      - Writing: "writing/index.md"
+  - Home: "index.md"
   - Writing:
       - "writing/index.md"
+  - FDE: "fde/index.md"
+  - Research: "research/index.md"
+  - Talks: "talks/index.md"
 
 theme:
   name: material
@@ -29,6 +30,11 @@ plugins:
       post_date_format: yyyy/MM/dd
       post_url_format: "{date}/{slug}"
       authors_file: "{blog}/.authors.yml"
+      categories: true
+      categories_name: Categories
+      categories_toc: true
+      archive: true
+      archive_name: Archive
   - rss:
       match_path: writing/posts/.*
       date_from_meta:

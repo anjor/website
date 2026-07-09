@@ -6,7 +6,7 @@ categories:
 ---
 # Is FDE a Bubble?
 
-When I wrote [If LEGO Had Forward Deployed Engineers](https://anjor.xyz/writing/lego-fde/), I opened by saying the role was having a moment. That was an understatement. Since then the title has spread everywhere — every AI startup seems to be hiring FDEs, investors ask founders about their "FDE motion" the way they used to ask about their PLG motion, and the job ads have long since outrun any shared understanding of what the job is.
+When I wrote [If LEGO Had Forward Deployed Engineers](./lego-fde.md), I opened by saying the role was having a moment. That was an understatement. Since then the title has spread everywhere — every AI startup seems to be hiring FDEs, investors ask founders about their "FDE motion" the way they used to ask about their PLG motion, and the job ads have long since outrun any shared understanding of what the job is.
 
 When a title spreads faster than the understanding behind it, it's worth asking the uncomfortable question: **is FDE a bubble?**
 

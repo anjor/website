@@ -13,6 +13,7 @@ The interesting part wasn't that AI could write the code. It was that AI could d
 
 ## Write-ups
 
+- **[A Week in Vienna](../writing/posts/a-week-in-vienna.md)** — returning to a plasma-physics working meeting after twelve years, and discovering that AI may contribute to the reasoning as well as the computation
 - **[AI as the Undergrad Researcher](../writing/posts/ai-undergrad-researcher.md)** — the full account: a real physics result, two months, one person
 - **[Building a Gyrokinetics Code Without Reading a Single Line](../writing/posts/building-gandalf.md)** — rebuilding the simulation in JAX with Claude in 30 days
 - **[The Autonomy Gradient](../writing/posts/autonomy-gradient.md)** — what AI can and can't do across research tasks

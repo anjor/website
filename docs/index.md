@@ -10,6 +10,8 @@ I'm a computational physicist turned Forward Deployed Engineer. I spent 7 years 
 
 PhD in Computational Physics from the University of Maryland. I spent 7 years at Palantir as a Forward Deployed Engineer and hiring manager, conducted over 1,000 technical interviews, and trained hundreds of interviewers. Featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers) on how FDE organizations work.
 
+I run [Platypus Technologies](https://platypustech.xyz), where I help companies decide whether they need FDEs and build the function properly when they do. The framework behind that work, the [Platypus FDE Blueprint](https://platypustech.xyz/blueprint/), is published free.
+
 I recently rebuilt my plasma physics simulations with AI assistance and took them all the way to a publishable result — validating that AI amplifies expertise rather than replacing it. The paper is on [GitHub](https://github.com/anjor/gandalf-paper) along with the [code](https://github.com/anjor/gandalf). More on the [research page](research/index.md).
 
 ---
@@ -17,16 +19,18 @@ I recently rebuilt my plasma physics simulations with AI assistance and took the
 ## Writing
 
 ### Forward Deployed Engineering
-The role is having a moment, and most of what's written about it is muddled. My running attempt to pin it down — what it is and the strategic fork AI has opened up — lives on the [FDE page](fde/index.md).
+The role is having a moment, and most of what's written about it is muddled. My running attempt to pin it down — whether you need the role, what it is, and the strategic fork AI has opened up — lives on the [FDE page](fde/index.md).
 
 - **[If LEGO Had Forward Deployed Engineers](./writing/posts/lego-fde.md)** — What actually makes an FDE different from a really good consultant
 - **[The FDE Fork: Platform or Outcomes](./writing/posts/fde-fork.md)** — The strategic choice founders don't realise they're making
+- **[Is FDE a Bubble?](./writing/posts/fde-bubble.md)** — The title is spreading faster than the reasoning behind it
 - **[The FDE Manifesto](./writing/posts/fde-manifesto.md)** — What the role is for, and why most companies get it wrong
 
 ### AI + Physics Research
 
 ![The Autonomy Gradient: AI effectiveness across research tasks](./writing/assets/autonomy-gradient.png){ width="700" }
 
+- **[A Week in Vienna](./writing/posts/a-week-in-vienna.md)** — What I learned returning to a plasma-physics working meeting after twelve years
 - **[AI as the Undergrad Researcher](./writing/posts/ai-undergrad-researcher.md)** — A real physics result, two months, one person
 - **[The Autonomy Gradient](./writing/posts/autonomy-gradient.md)** — What AI can and can't do in physics research
 - **[Writing a Physics Paper with Claude](./writing/posts/writing-gandalf-paper.md)** — Workflow, iterations, and hallucinations caught in review
@@ -42,4 +46,7 @@ The role is having a moment, and most of what's written about it is muddled. My 
 
 ## Work With Me
 
-I run [Platypus Technologies](https://platypustech.xyz), where I help companies build and run Forward Deployed Engineering functions. If you want to work with me, that's the place to go.
+Two routes, depending on what you need.
+
+- **Build or fix an FDE function** → [Platypus Technologies](https://platypustech.xyz). Start with the [two-week assessment](https://platypustech.xyz/engagements/#fde-readiness-assessment): a written readout of where you sit against the Blueprint, what is wrong with the plan, and what to change in the next ninety days.
+- **Speak to your team or portfolio** → the [talks page](talks/index.md). Panels, portfolio sessions, and a half-day Portfolio FDE Day for funds.

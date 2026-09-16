@@ -2,8 +2,6 @@
 
 I speak about two things: how Forward Deployed Engineering actually works — how to structure the org, how to hire for it, and how the role is changing under AI — and what AI changes about doing scientific research.
 
-**For funds:** I run a Portfolio FDE Day — a half-day workshop plus office hours for a portfolio; via [Platypus](https://platypustech.xyz). Get in touch at [work@platypustech.xyz](mailto:work@platypustech.xyz).
-
 If you'd like me to speak to your team or portfolio, get in touch via [Platypus Technologies](https://platypustech.xyz).
 
 ## 2026

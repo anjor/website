@@ -46,7 +46,5 @@ The role is having a moment, and most of what's written about it is muddled. My 
 
 ## Work With Me
 
-Two routes, depending on what you need.
-
 - **Build or fix an FDE function** → [Platypus Technologies](https://platypustech.xyz). Start with the [two-week assessment](https://platypustech.xyz/engagements/#fde-readiness-assessment): a written readout of where you sit against the Blueprint, what is wrong with the plan, and what to change in the next ninety days.
-- **Speak to your team or portfolio** → the [talks page](talks/index.md). Panels, portfolio sessions, and a half-day Portfolio FDE Day for funds.
+- **Speak to your team or portfolio** → the [talks page](talks/index.md). Panels, roundtables, and sessions for leadership teams and investors.

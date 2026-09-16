@@ -32,4 +32,4 @@ The [Platypus case notes](https://platypustech.xyz/case-notes/) cover four diffe
 
 ## Work with me
 
-I run [Platypus Technologies](https://platypustech.xyz). Organisational work starts with the [FDE Readiness Assessment](https://platypustech.xyz/engagements/#fde-readiness-assessment): two weeks, a fixed fee, and a written readout of where you sit against the Blueprint and what to change. Hiring systems and Academy programmes can start directly when the need is already clear. For funds, there is a half-day [Portfolio FDE Day](../talks/index.md).
+I run [Platypus Technologies](https://platypustech.xyz). Organisational work starts with the [FDE Readiness Assessment](https://platypustech.xyz/engagements/#fde-readiness-assessment): two weeks, a fixed fee, and a written readout of where you sit against the Blueprint and what to change. Hiring systems and Academy programmes can start directly when the need is already clear.

@@ -8,8 +8,6 @@ categories:
 
 # Every deployment is a startup with two founders
 
-![Two co-founders at one desk. The one with the CEO nameplate is writing code, and the one with the CTO nameplate is on a sales call](../assets/two-founders.png)
-
 When people hear how Palantir staffed its deployments, they usually picture a project manager and an engineer. The deployment strategist manages the client, and the forward deployed engineer builds the thing. Yes and no.
 
 Palantir did hire for two roles. Palantir had funny names for everything, so strategists were Echoes and FDEs were Deltas. The technical bar for strategists was lower at hiring. They didn't need to be engineers, but they did need to be analytical. They had to take an open-ended question and answer it with data. Many of them also had domain expertise or were good at managing accounts.

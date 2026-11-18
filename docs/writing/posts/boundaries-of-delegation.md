@@ -4,6 +4,7 @@ date: 2026-10-16
 slug: boundaries-of-delegation
 categories:
   - physics
+  - agents
 ---
 
 # The Boundaries of Delegation: The Autonomy Gradient, One Year On

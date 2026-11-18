@@ -4,6 +4,7 @@ date: 2026-11-11
 slug: authority-to-surprise-us
 categories:
   - physics
+  - agents
 ---
 
 # Authority to surprise us

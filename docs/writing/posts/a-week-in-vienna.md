@@ -4,6 +4,7 @@ date: 2026-09-15
 slug: a-week-in-vienna
 categories:
   - physics
+  - agents
 ---
 
 # A week in Vienna

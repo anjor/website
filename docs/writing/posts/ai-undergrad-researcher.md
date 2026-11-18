@@ -4,6 +4,7 @@ date: 2026-05-29
 slug: ai-undergrad-researcher
 categories:
   - physics
+  - agents
 ---
 
 # AI as the Undergrad Researcher: A Real Physics Result, Two Months, One Person

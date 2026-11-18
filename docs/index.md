@@ -28,14 +28,15 @@ The role is having a moment, and most of what's written about it is muddled. My 
 - **[Is FDE a Bubble?](./writing/posts/fde-bubble.md)** — The title is spreading faster than the reasoning behind it
 - **[The FDE Manifesto](./writing/posts/fde-manifesto.md)** — What the role is for, and why most companies get it wrong
 
-### AI + Physics Research
+### Long-running agents
+I use my physics research as a test bed for AI agents that work on hard problems for weeks. The posts are grouped by lesson on the [series page](agents/index.md).
 
 ![The Autonomy Gradient: AI effectiveness across research tasks](./writing/assets/autonomy-gradient.png){ width="700" }
 
+- **[Authority to surprise us](./writing/posts/authority-to-surprise-us.md)**: The results I now trust came from tests that could have failed
 - **[The Boundaries of Delegation](./writing/posts/boundaries-of-delegation.md)**: What I hand over to AI in research, one year on
-- **[A Week in Vienna](./writing/posts/a-week-in-vienna.md)** — What I learned returning to a plasma-physics working meeting after twelve years
-- **[The Autonomy Gradient](./writing/posts/autonomy-gradient.md)** — What AI can and can't do in physics research
-- **[Writing a Physics Paper with Claude](./writing/posts/writing-gandalf-paper.md)** — Workflow, iterations, and hallucinations caught in review
+- **[The Autonomy Gradient](./writing/posts/autonomy-gradient.md)**: What AI can and can't do in physics research
+- **[Physics-Oracle Validation](./writing/posts/physics-oracle-validation.md)**: How to trust code you've never read
 
 ### Hiring & Organizations
 - **[The Unreasonable Effectiveness of Hiring Assholes](./writing/posts/hiring-assholes.md)** — Why conviction and ego are separate traits

@@ -9,6 +9,7 @@ nav:
   - Writing:
       - "writing/index.md"
   - FDE: "fde/index.md"
+  - Agents: "agents/index.md"
   - Research: "research/index.md"
   - Talks: "talks/index.md"
 
